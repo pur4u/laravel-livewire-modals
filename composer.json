@@ -1,6 +1,6 @@
 {
-    "name": "bastinald/laravel-livewire-modals",
-    "homepage": "https://github.com/bastinald/laravel-livewire-modals",
+    "name": "pur4u/laravel-livewire-modals",
+    "homepage": "https://github.com/pur4u/laravel-livewire-modals",
     "description": "Dynamic Laravel Livewire Bootstrap modals.",
     "license": "MIT",
     "authors": [
@@ -8,10 +8,15 @@
             "name": "Kevin Dion",
             "email": "bastinald@icloud.com",
             "role": "Developer"
+        },
+        {
+            "name": "Ovidiu L.",
+            "email": "contact@pur4u.com",
+            "role": "Developer"
         }
     ],
     "require": {
-        "laravel/framework": "^8.0",
+        "laravel/framework": "^8.0|^9.0|^10.0",
         "livewire/livewire": "^2.0"
     },
     "autoload": {
